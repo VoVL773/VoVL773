@@ -14,12 +14,29 @@
 
 ## About Me
 
-I'm a developer who enjoys turning ideas into working products.
-
-- Currently building: `Robotics_DevKit_Platform` 
-- Learning: `ROS2` 
-- Open to: collaboration and interesting conversations
-- Email: `VoVL7732006@gmail.com` 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>FOCUS</b><br/>
+      Robotics developer focused on ROS 2, computer vision and autonomous navigation.<br/>
+      Open to collaboration on robotics and open-source projects.
+    </td>
+    <td width="50%" valign="top">
+      <b>BUILDING</b><br/>
+      <b>Robotics_DevKit_Platform</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>LEARNING</b><br/>
+      ROS 2
+    </td>
+    <td width="50%" valign="top">
+      <b>CONTACT</b><br/>
+      <a href="mailto:VoVL7732006@gmail.com">Email</a> · <a href="https://vovl773.github.io/">Blog</a>
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack
 

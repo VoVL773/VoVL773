@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/profile-banner.jpg" width="100%" alt="Profile banner" />
+
 </div>
 
 ## About Me
